@@ -13,6 +13,8 @@ I have implemented <a href="https://www.highcharts.com/" target="_blank">Highcha
 
 As you can see, this is not very well written code. I did this application just to understand Redux concept. Please feel free to improvise my code. I am just beginner to the ReactJs world :) 
 
+To know more about me, then click <a href="https://rakeshnayak360.github.io/resume/" target="_blank">here</a> 
+
 ![](https://visitor-badge.glitch.me/badge?page_id=emiCalculator)
 
 
