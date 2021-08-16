@@ -3,7 +3,7 @@ This is a EMI Calculator application built using ReactJs, Hooks and Redux. This 
 
 I have implemented <a href="https://www.highcharts.com/" target="_blank">Highchart</a> for this application.
 
-<a href="https://rakeshnayak360.github.io/emiCalculator/build/" target="_blank">Live demo</a>
+<a href="https://rakeshnayak360.github.io/emiCalculator/build/" target="_blank">:rocket:  Live demo</a>
 
 ### Installation
 - Clone the repo
